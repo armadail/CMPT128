@@ -1,0 +1,158 @@
+The Coin Sorter has sent one coin to the dime wrapper 
+There are now 1 coins in the dime wraper 
+The Coin Sorter has sent one coin to the nickels wrapper 
+There are now 1 coins in the nickels wraper 
+The Coin Sorter has sent one coin to the quarter wrapper 
+There are now 1 coins in the quarter wraper
+The Coin Sorter has sent one coin to the loonie wrapper 
+There are now 1 coins in the loonie wraper 
+The Coin Sorter has sent one coin to the loonie wrapper 
+There are now 2 coins in the loonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 1 coins in the twonie wraper 
+The Coin Sorter has sent this coin to the bent coin container 
+The Coins in the bent coin container now weighs 2.00 grams
+The Coin Sorter has sent this coin to the bent coin container 
+The Coins in the bent coin container now weighs 5.80 grams
+The Coin Sorter has sent this coin to the bent coin container 
+The Coins in the bent coin container now weighs 10.00 grams
+The Coin Sorter has sent this coin to the bent coin container 
+The Coins in the bent coin container now weighs 16.71 grams
+The Coin Sorter has sent this coin to the bent coin container 
+The Coins in the bent coin container now weighs 23.76 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 2.00 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 5.80 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 10.00 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 16.71 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 23.76 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 25.76 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 29.57 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 33.76 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 40.47 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 47.53 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 48.63 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 51.22 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 56.86 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 65.69 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 67.84 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 72.08 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 76.78 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 84.24 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 91.92 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 101.92 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 111.92 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 121.92 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 130.75 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 140.75 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 141.61 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 144.63 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 151.10 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 161.10 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 171.10 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 181.10 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 191.10 grams
+The Coin Sorter has sent this coin to the other coin container 
+This coin does not fit in the other coin container 
+The other coins container has been replaced 
+The coins in the other coin container now weighs 10.00 grams
+The Coin Sorter has sent this coin to the other coin container 
+The coins in the other coin container now weigh 20.00 grams
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 2 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 3 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 4 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 5 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 6 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 7 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 8 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 9 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 10 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 11 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 12 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 13 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 14 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 15 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 16 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 17 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 18 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 19 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 20 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 21 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 22 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 23 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonie wrapper 
+There are now 24 coins in the twonie wraper 
+The Coin Sorter has sent one coin to the twonies wrapper 
+The twonie wrapper is now full 
+The twonie wrapper has now been replaced 
+
+
+
+SUMMARY
+The Coin Sorter made 0 rolls of nickels.
+     There are 1 nickels in the partially full roll.
+The Coin Sorter made 0 rolls of dimes.
+     There are 1 dimes in the partially full roll.
+The Coin Sorter made 0 rolls of quarters.
+     There are 1 quarters in the partially full roll.
+The Coin Sorter made 0 rolls of loonies.
+     There are 2 loonies in the partially full roll.
+The Coin Sorter made 1 rolls of twonies.
+     There are 1 twonies in the partially full roll.
+The Coin Sorter processed 33 other coins.
+     The other coins completely filled 1 containers
+     There were 2 other coins in the partially full container
+     The total weight of the other coins was 211.098 grams
+The Coin Sorter processed 23.7647 g of bent coins

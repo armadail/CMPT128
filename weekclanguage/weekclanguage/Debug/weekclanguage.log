@@ -1,0 +1,4 @@
+﻿  weekdayhour.c
+c:\users\hong_\source\repos\weekclanguage\weekclanguage\weekdayhour.c(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hong_\source\repos\weekclanguage\weekclanguage\weekdayhour.c(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  weekclanguage.vcxproj -> C:\Users\Hong_\source\repos\weekclanguage\Debug\weekclanguage.exe
